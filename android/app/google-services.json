@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "965601402706",
+    "project_id": "fir-9dc6a",
+    "storage_bucket": "fir-9dc6a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965601402706:android:df417475c7434cf769248b",
+        "android_client_info": {
+          "package_name": "com.flutterweek3.movies_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965601402706-tqem47dkcum7ustsai811h5g6q5g1f22.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3h6ZbHtQAjYwJgEzbsnMr1IZENKB2dTA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965601402706-tqem47dkcum7ustsai811h5g6q5g1f22.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965601402706-jmjk9ff9vaqojjsbbroer4fran801hrs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterweek3.moviesApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
